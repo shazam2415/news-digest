@@ -1,5 +1,0 @@
-requests==2.31.0
-python-dotenv==1.0.0
-transformers==4.36.2
-torch>=2.0.0
-translators==5.9.2
